@@ -1,0 +1,6 @@
+.main-container {
+  width: 60%;
+  max-width: 1200px; /* optional, large screens साठी */
+  margin: 0 auto;
+  padding: 20px; /* optional, UI ला spacing द्यायला */
+}
